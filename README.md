@@ -106,7 +106,7 @@ pip install pymupdf python-docx
 如果这个工具提升了你的文献阅读效率，欢迎请我喝杯咖啡 ☕
 
 <p align="center">
-  <img src="assets/sponsor.png" width="400" alt="打赏码" />
+  <img src="assets/sponsor.jpg" width="400" alt="打赏码" />
 </p>
 
 ---
