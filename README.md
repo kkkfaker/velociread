@@ -15,9 +15,15 @@
 
 ### 简介
 
-**velociread**（原 paper-anatomist）是一个 Claude Code 技能，将学术论文转化为**带高亮批注的 PDF** + **结构化精读笔记**，实现高效文献精读。
+**velociread**（原 paper-anatomist）是一个 Claude Code 技能，将学术论文转化为**带高亮批注的 PDF** + **结构化精读笔记**。
 
-核心哲学：**Claude 做导读标注 + 结构解析，你把 PDF 扔进小绿鲸（或其他翻译器）继续划词翻译**——各司其职，效率翻倍。
+专为中国科研用户设计的工具链整合：
+
+- 📚 **[Zotero](https://www.zotero.org/)** 管理你的文献库 —— 论文从 Zotero 一键输入，批注版自动存回
+- 🧠 **[Obsidian](https://obsidian.md/)** 构建你的知识网络 —— 精读笔记（含图表+术语+复习卡）自动归档，双向链接串联论文
+- 🐋 **小绿鲸（IvySci）** 是你的翻译利器 —— 批注 PDF 保留原文不动，用惯的小绿鲸打开继续划词翻译，CN 用户无缝衔接
+
+核心哲学：**Claude 做导读标注 + 结构解析，小绿鲸做翻译**——各司其职，效率翻倍。
 
 ### 核心特色
 
@@ -115,9 +121,15 @@ pip install pymupdf python-docx
 
 ### Overview
 
-**velociread** is a Claude Code skill that transforms academic papers into **annotated PDFs** + **structured reading notes**, enabling efficient intensive reading.
+**velociread** is a Claude Code skill that transforms academic papers into **annotated PDFs** + **structured reading notes**.
 
-Core philosophy: **Claude annotates and structures; you throw the PDF into your favorite translator** for on-demand translation — each tool does what it does best.
+Built for a seamless toolchain:
+
+- 📚 **[Zotero](https://www.zotero.org/)** for reference management — import papers directly, annotated PDFs save back automatically
+- 🧠 **[Obsidian](https://obsidian.md/)** for knowledge management — structured notes with figures, glossary, and review cards, linked via wikilinks
+- 🐋 **IvySci (小绿鲸)** for on-demand translation — annotated PDFs preserve original text, open in IvySci to translate any sentence
+
+Core philosophy: **Claude annotates and structures; your translator handles the rest** — each tool does what it does best.
 
 ### Key Features
 
