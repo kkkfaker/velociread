@@ -99,7 +99,7 @@ git clone https://github.com/<your-username>/velociread.git ~/.claude/skills/vel
 pip install pymupdf python-docx
 ```
 
-确保 Zotero 7 后台运行，Obsidian Vault 位于 `~/Documents/Obsidian Vault/`。
+确保 Zotero 7 后台运行。Obsidian Vault 默认路径：Windows `C:\Users\<用户名>\Documents\Obsidian Vault\` / macOS `~/Documents/Obsidian Vault/`，技能会自动检测。
 
 ### 打赏
 
