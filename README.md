@@ -48,7 +48,7 @@ git clone https://github.com/<your-username>/velociread.git ~/.claude/skills/vel
 pip install pymupdf python-docx
 
 # 3. 在 Claude Code 中调用
-/精读
+/velociread
 # 或直接说：精读这篇论文
 ```
 
@@ -148,7 +148,7 @@ Core philosophy: **Claude annotates and structures; your translator handles the 
 ```bash
 git clone https://github.com/<your-username>/velociread.git ~/.claude/skills/velociread
 pip install pymupdf python-docx
-# In Claude Code: /精读
+# In Claude Code: /velociread
 ```
 
 ### License
