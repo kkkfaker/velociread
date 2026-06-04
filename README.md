@@ -17,7 +17,7 @@
 
 **velociread**（原 paper-anatomist）是一个 Claude Code 技能，将学术论文转化为**带高亮批注的 PDF** + **结构化精读笔记**。
 
-专为中国科研用户设计的工具链整合：
+专为用户设计的文献阅读工具链整合：
 
 - 📚 **[Zotero](https://www.zotero.org/)** 管理你的文献库 —— 论文从 Zotero 一键输入，批注版自动存回
 - 🧠 **[Obsidian](https://obsidian.md/)** 构建你的知识网络 —— 精读笔记（含图表+术语+复习卡）自动归档，双向链接串联论文
